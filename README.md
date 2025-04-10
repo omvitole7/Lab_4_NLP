@@ -1,4 +1,4 @@
-# Lab_4_NLP
+
 # 📝 Lab Assignment No. 4- NLP Preprocessing And Text Classification
 
 ## 📚 Course Information
@@ -45,8 +45,7 @@ NLP enables machines to understand and interpret human language. It involves:
 
 ---
 
-## 🗂 Dataset
-
+## 🗂 Datase
 - **Name:** AG News Dataset  
 - **Source:** [Kaggle - AG News Dataset](https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset)  
 - **Classes:** World, Sports, Business, Sci/Tech  
