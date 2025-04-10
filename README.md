@@ -47,7 +47,7 @@ NLP enables machines to understand and interpret human language. It involves:
 
 ## 🗂 Datase
 - **Name:** AG News Dataset  
-- **Source:** [Kaggle - AG News Dataset](https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset)  
+- **Source:**  https://en.innovatiana.com/post/best-datasets-for-text-classification 
 - **Classes:** World, Sports, Business, Sci/Tech  
 - **Attributes:** Title, Description, Label  
 
