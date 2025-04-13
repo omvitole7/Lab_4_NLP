@@ -110,7 +110,7 @@ NLP enables machines to understand and interpret human language. It involves:
 
 ## 🔗 GitHub Repository
 
-👉 [GitHub Repo Link](https://github.com/meSanika07/DL_PracticalLabAssignmnent_4)
+👉 https://github.com/omvitole7/Lab_4_NLP
 
 ## ⚙️ Project Structure
 
