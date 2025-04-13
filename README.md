@@ -101,7 +101,7 @@ NLP enables machines to understand and interpret human language. It involves:
 
 ## 🚀 How to Run
 
-1. Open the notebook in [Google Colab](https://colab.research.google.com/drive/1UhYWeIgNrZ89ciYNcCNjueBwKe1ZvmsB?usp=sharing).
+1. Open the notebook in https://colab.research.google.com/drive/1zX34gBsEGVB890RQWFxGCMlaivf5uMDH#scrollTo=qfwaeuSgcupl
 2. Upload the `ag_news` folder containing `train.csv` and `test.csv`.
 3. Run each cell sequentially.
 4. View classification reports, confusion matrices, and comparison graphs.
